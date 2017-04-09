@@ -1,0 +1,6 @@
+D:\c#game\CashLineSimulator\CashLineSimulator\bin\Debug\CashLineSimulator.exe.config
+D:\c#game\CashLineSimulator\CashLineSimulator\bin\Debug\CashLineSimulator.exe
+D:\c#game\CashLineSimulator\CashLineSimulator\bin\Debug\CashLineSimulator.pdb
+D:\c#game\CashLineSimulator\CashLineSimulator\obj\Debug\CashLineSimulator.csprojResolveAssemblyReference.cache
+D:\c#game\CashLineSimulator\CashLineSimulator\obj\Debug\CashLineSimulator.exe
+D:\c#game\CashLineSimulator\CashLineSimulator\obj\Debug\CashLineSimulator.pdb
