@@ -1,4 +1,4 @@
 # Cashier-Line-Simulation-
-. This program should read input from a file and print the resulting score to the console. (The program should be a console-only program.) The program should take a single command line parameter, the name of the input file.
+This program should read input from a file and print the resulting score to the console. (The program should be a console-only program.) The program should take a single command line parameter, the name of the input file.
 Customers arrive at a set of registers to check out. Each register is run by a cashier who serves customers on a first-come, first-served basis. The goal of the problem is to determine when all customers are done checking out.
 One of the most important criteria for a successful solution is that it correctly solves the problem, but it is also an opportunity for you to demonstrate your object-oriented knowledge and testing skills. We will determine this by both code inspection and acceptance testing. We will also be considering your overall approach to the problem and your programming style. This assignment is an opportunity to show off your design, testing, and object-oriented skills.
